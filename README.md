@@ -17,6 +17,10 @@ License: CC BY-SA 4.0
 | R1 | 1K 0603 - [Mouser](https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-071KL?qs=VU8sRB4EgwApHsk4rF%2F3zg%3D%3D) / [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-071KL_C22548.html) | |
 | R2 | 100K 0603 - [Mouser](https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-07100KL?qs=e1ok2LiJcmaihem8Va5%2Fsw%3D%3D) / [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-07100KL_C14675.html) |  |
 
+## Ordering
+
+Grab the gerbers and upload to your preferred fab, or use the shared project links: [OSHPark](https://oshpark.com/shared_projects/hxcLf80E) / [PCBWay](https://www.pcbway.com/project/shareproject/babydriver_2d900780.html)
+
 ## Assembly
 
 Considering the board is roughly the size of an SD card, the design uses 4 layers to increase thermal mass and keep the MOSFET cool during operation.
