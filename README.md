@@ -22,7 +22,7 @@ License: CC BY-SA 4.0
 Considering the board is roughly the size of an SD card, the design uses 4 layers to increase thermal mass and keep the MOSFET cool during operation.
 There are also no thermal reliefs due to these space constraints, so be prepared for the board to sink some heat while soldering!
 
-Simply solder all components and wire (looking at the side of the board with the labels):
+Simply solder all components (watch the polarity on the diode!) and wire (looking at the side of the board with the labels):
 
 Left side:
 - G: Ground - Microcontroller ground
