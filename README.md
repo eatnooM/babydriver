@@ -1,6 +1,7 @@
 # babydriver
 
-![Image of assembled PCB](resources/board-assembled.jpg)
+![Image of assembled PCB from front](resources/board-front.jpg)
+![Image of assembled PCB from back](resources/board-back.jpg)
 
 License: CC BY-SA 4.0
 
